@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iwLain
 
 - 📫 How to reach me:
-E-Mail: code@finnlab.moe
-XMPP: lain@marxist.club
+E-Mail: mail@finnlab.moe
+XMPP: finnlab@trashserver.net
 
 
 
